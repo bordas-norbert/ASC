@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\bin\Debug\netcoreapp3.1\temaConvertBases.exe
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\bin\Debug\netcoreapp3.1\temaConvertBases.deps.json
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\bin\Debug\netcoreapp3.1\temaConvertBases.runtimeconfig.json
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\bin\Debug\netcoreapp3.1\temaConvertBases.runtimeconfig.dev.json
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\bin\Debug\netcoreapp3.1\temaConvertBases.dll
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\bin\Debug\netcoreapp3.1\temaConvertBases.pdb
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\obj\Debug\netcoreapp3.1\temaConvertBases.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\obj\Debug\netcoreapp3.1\temaConvertBases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\obj\Debug\netcoreapp3.1\temaConvertBases.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\obj\Debug\netcoreapp3.1\temaConvertBases.AssemblyInfo.cs
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\obj\Debug\netcoreapp3.1\temaConvertBases.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\obj\Debug\netcoreapp3.1\temaConvertBases.dll
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\obj\Debug\netcoreapp3.1\temaConvertBases.pdb
+C:\Users\user\Documents\GITHUB\ASC_tema\temaConvertBases\temaConvertBases\obj\Debug\netcoreapp3.1\temaConvertBases.genruntimeconfig.cache
