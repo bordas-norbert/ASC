@@ -1,2 +1,0 @@
-# ASC
-Teme de ASC
